@@ -16,14 +16,14 @@ $(document).ready(function(e) {
     function goRight() {
         $("#animate").animate({
         left: width
-      }, 5000, function() {
+      }, 50000, function() {
          setTimeout(goLeft, 50);
       });
     }
     function goLeft() {
         $("#animate").animate({
         left: 0
-      }, 5000, function() {
+      }, 50000, function() {
          setTimeout(goRight, 50);
       });
     }

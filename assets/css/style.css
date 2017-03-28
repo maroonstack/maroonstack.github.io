@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/back.png) no-repeat center top;
 	margin-top: 0px;
 	padding-top:120px;
 	text-align:center;
@@ -264,13 +264,7 @@ h1, h2, h3, h4, h5, h6 {
     -o-background-size: cover;
     background-size: cover;
 }
-#animate {
-    position: relative;
-}
 
-#ok {
-    z-index: 1;
-}
 
 #headerwrap h1 {
 	color:#800000;
@@ -282,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-shadow: 2px 2px 2px #000;
 }
 
-/* About Wrap & Conf */
+ /*About Wrap & Conf */
 #aboutwrap {
 	margin-top: 80px;
 	margin-bottom: 80px;
