@@ -247,11 +247,11 @@ h1, h2, h3, h4, h5, h6 {
 #headerwrap {
 	background: url(../img/back.png) no-repeat center top;
 	margin-top: 0px;
-	padding-top:120px;
+	padding-top:10%;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 700px;
+	min-height: 100%;
 	width: 100%;
 
     -webkit-background-size: 100%;
