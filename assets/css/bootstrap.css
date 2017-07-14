@@ -1739,6 +1739,9 @@ input[type="date"] {
 }
 .form-group {
   margin-bottom: 15px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 .radio,
 .checkbox {
