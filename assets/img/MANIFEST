@@ -1,0 +1,18 @@
+This zip file contains optimized resources for http://maroonstack.com/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/style.css: http://maroonstack.com/assets/css/style.css
+css/jquery.fancybox.css: http://maroonstack.com/assets/js/fancybox/jquery.fancybox.css
+js/classie.js: http://maroonstack.com/assets/js/classie.js
+js/smoothscroll.js: http://maroonstack.com/assets/js/smoothscroll.js
+js/jquery.fancybox.js: http://maroonstack.com/assets/js/fancybox/jquery.fancybox.js
+image/noah_profile.jpg: http://maroonstack.com/assets/img/noah_profile.jpg
+image/arjun_profile.jpg: http://maroonstack.com/assets/img/arjun_profile.jpg
+image/bottom.png: http://maroonstack.com/assets/img/bottom.png
+image/back.png: http://maroonstack.com/assets/img/back.png
+image/portfolio-sep.jpg: http://maroonstack.com/assets/img/portfolio-sep.jpg
